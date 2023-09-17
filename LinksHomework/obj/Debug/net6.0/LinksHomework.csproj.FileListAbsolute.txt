@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\bin\Debug\net6.0\LinksHomework.exe
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\bin\Debug\net6.0\LinksHomework.deps.json
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\bin\Debug\net6.0\LinksHomework.runtimeconfig.json
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\bin\Debug\net6.0\LinksHomework.dll
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\bin\Debug\net6.0\LinksHomework.pdb
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\LinksHomework.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\LinksHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\LinksHomework.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\LinksHomework.AssemblyInfo.cs
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\LinksHomework.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\LinksHomework.dll
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\refint\LinksHomework.dll
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\LinksHomework.pdb
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\LinksHomework.genruntimeconfig.cache
+C:\Users\Asus\source\repos\LinksHomework\LinksHomework\obj\Debug\net6.0\ref\LinksHomework.dll
